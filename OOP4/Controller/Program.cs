@@ -15,7 +15,7 @@ namespace OOP4
                 arr[i] = UserInput.GetInt();
             }
             OutInConsole.Print(Logic.SymOfDigitsAfterLastZero(arr));
-            OutInConsole.Print(Logic.GetSumBetweenGreatestAndLowest(arr));
+            OutInConsole.Print(Logic.GetSumSinceGreatestTillLowest(arr));
         }
     }
 }

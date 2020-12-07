@@ -63,7 +63,7 @@ namespace OOP4.Models
         }
 
 
-        public static int GetSumBetweenGreatestAndLowest(int[] arr)
+        public static int GetSumSinceGreatestTillLowest(int[] arr)
         {
             if (arr.Length < 1)
             {
