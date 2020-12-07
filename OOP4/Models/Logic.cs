@@ -12,15 +12,10 @@ namespace OOP6.Models
 
         public static int GetSumSinceGreatestTillLowest(int[] arr)
         {
-            if (Array.LastIndexOf(arr, arr.Max()) < Array.LastIndexOf(arr, arr.Min()))
-            {
-                return arr.Skip(Array.LastIndexOf(arr, arr.Min()))
-                    .Take(Array.LastIndexOf(arr, arr.Min()) - Array.LastIndexOf(arr, arr.Max()))
+            int maxInd = Array.LastIndexOf(arr, arr.Max());
+            int minInd = Array.LastIndexOf(arr, arr.Min());
+            return arr[Math.Min(maxInd, minInd)..Math.Abs(maxInd - minInd)]
                     .Sum();
-            }
-            return arr.Skip(Array.LastIndexOf(arr, arr.Max()))
-                .Take(Array.LastIndexOf(arr, arr.Max()) - Array.LastIndexOf(arr, arr.Min()))
-                .Sum();
         }
     }
 }
