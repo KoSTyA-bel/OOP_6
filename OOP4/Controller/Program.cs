@@ -1,8 +1,8 @@
-﻿using OOP4.View;
-using OOP4.Utils;
-using OOP4.Models;
+﻿using OOP6.View;
+using OOP6.Utils;
+using OOP6.Models;
 
-namespace OOP4
+namespace OOP6
 {
     class Program
     {

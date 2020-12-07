@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP4.View
+namespace OOP6.View
 {
     static class OutInConsole
     {

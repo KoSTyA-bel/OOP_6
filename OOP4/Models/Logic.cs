@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP4.Models
+namespace OOP6.Models
 {
     static class Logic
     {

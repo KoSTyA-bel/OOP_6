@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP4.Utils
+namespace OOP6.Utils
 {
     static class UserInput
     {
