@@ -24,3 +24,16 @@ C:\Users\Костя\Desktop\OOP6\OOP4\obj\Debug\netcoreapp3.1\OOP4.csproj.CoreCo
 C:\Users\Костя\Desktop\OOP6\OOP4\obj\Debug\netcoreapp3.1\OOP4.dll
 C:\Users\Костя\Desktop\OOP6\OOP4\obj\Debug\netcoreapp3.1\OOP4.pdb
 C:\Users\Костя\Desktop\OOP6\OOP4\obj\Debug\netcoreapp3.1\OOP4.genruntimeconfig.cache
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\bin\Debug\netcoreapp3.1\OOP4.exe
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\bin\Debug\netcoreapp3.1\OOP4.deps.json
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\bin\Debug\netcoreapp3.1\OOP4.runtimeconfig.json
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\bin\Debug\netcoreapp3.1\OOP4.runtimeconfig.dev.json
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\bin\Debug\netcoreapp3.1\OOP4.dll
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\bin\Debug\netcoreapp3.1\OOP4.pdb
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\obj\Debug\netcoreapp3.1\OOP4.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\obj\Debug\netcoreapp3.1\OOP4.AssemblyInfoInputs.cache
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\obj\Debug\netcoreapp3.1\OOP4.AssemblyInfo.cs
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\obj\Debug\netcoreapp3.1\OOP4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\obj\Debug\netcoreapp3.1\OOP4.dll
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\obj\Debug\netcoreapp3.1\OOP4.pdb
+C:\Users\USER\Source\Repos\KoSTyA-bel\OOP_6\OOP4\obj\Debug\netcoreapp3.1\OOP4.genruntimeconfig.cache
