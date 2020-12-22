@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Костя\\Desktop\\OOP6\\OOP4\\OOP6.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\OOP_6\\OOP4\\OOP6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Костя\\Desktop\\OOP6\\OOP4\\OOP6.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\OOP_6\\OOP4\\OOP6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Костя\\Desktop\\OOP6\\OOP4\\OOP6.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\OOP_6\\OOP4\\OOP6.csproj",
         "projectName": "OOP6",
-        "projectPath": "C:\\Users\\Костя\\Desktop\\OOP6\\OOP4\\OOP6.csproj",
-        "packagesPath": "C:\\Users\\Костя\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Костя\\Desktop\\OOP6\\OOP4\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\OOP_6\\OOP4\\OOP6.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\OOP_6\\OOP4\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Костя\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
